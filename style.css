@@ -10,7 +10,6 @@ h1{
 }
 
 body{
-    background-image: url("./img/Background.jpg");
     background-size: 100%;
     background-repeat: repeat-y;
 }
